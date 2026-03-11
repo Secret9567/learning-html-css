@@ -1,0 +1,11 @@
+#dottedB{border-style: dotted;}
+#dashedB{border-style: dashed;}
+#solidB {border-style: solid;}
+#doubleB{border-style: double;}
+#grooveB{border-style: groove;}
+#ridgeB {border-style: ridge;}
+#insetB {border-style: inset;}
+#outsetB{border-style: outset;}
+#noneB  {border-style: none;}
+#hiddenB{border-style: hidden;}
+#mixedB{border-style: dashed groove dotted solid;}/*mixed border*/

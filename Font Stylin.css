@@ -1,0 +1,9 @@
+#para1{text-align: justify; direction: rtl; unicode-bidi: bidi-override;}
+
+#para2{text-align: left;text-decoration: overline;}       /*overline is opposite of underline*/
+
+#para3{ text-align: right;}
+
+#para4{text-align:center; text-transform:capitalize}
+
+#heading{color:#0000ff; text-align: center; font-family: Raleway;}

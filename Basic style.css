@@ -1,0 +1,6 @@
+body {background-color: blueviolet;}                                    /*This is a comment*/
+
+#para3{color: darkslateblue;                                            /* # is used for id*/
+       background-color: darkseagreen;}
+
+.class1{background-color: cornflowerblue;}                                /* . is used for class*/
